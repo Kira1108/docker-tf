@@ -1,6 +1,0 @@
-faker
-fastapi
-pydot
-openpyxl
-prophet
-plotly
